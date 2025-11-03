@@ -1,0 +1,1 @@
+export const TEST_DURATION_MINUTES = 15;
